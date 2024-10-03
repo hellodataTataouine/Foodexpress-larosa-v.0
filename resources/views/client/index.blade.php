@@ -262,28 +262,6 @@
         });
 
     </script>
-  {{-- @php
-  if (!session()->has('showPopup')){
-    session()->put('showPopup',true);
-  }
-  if(Cookie::get('comefrom') !== null){
-    session()->put('showPopup',true);
-  }
-  @endphp
-
-  @if(session()->has('showPopup') )
-
-  @if (session('showPopup'))
-
-  @include('client.home_')
-  @else --}}
-
-  {{-- @endif
-
-
-
-  @else --}}
-
   @include('client.layouts.top_menu_client')
    <!-- Cart Sidebar Start -->
    @include('client.layouts.cart_client')
@@ -461,7 +439,7 @@
         z-index: 1000;
     }
 </style>
-<a href="https://wa.me/+21699515347" class="whatsapp-button" target="_blank">
+<a href="https://wa.me/+21699916287" class="whatsapp-button" target="_blank">
     <img loading="lazy" src="{{asset('assetsClients/img/WhatsApp_icon.png')}}" alt="Chat with us on WhatsApp" width="60px">
 </a>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet">
