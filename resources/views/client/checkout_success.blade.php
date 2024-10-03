@@ -13,8 +13,8 @@
     <meta property="og:image" content="{{url('uploads/seo/'.$seo->image)}}">
   <meta name="author" content="cipherlink">
 
-  <title>Lella Meryem</title>
-  <link rel="icon" type="image/x-icon" href="images/img/meryem.png">
+  <title>La Rosa</title>
+  <link rel="icon" type="image/x-icon" href="logo_larosa.png">
 </head>
 <body>
 
@@ -36,7 +36,7 @@
         {{ Session::get('error') }}
     </div>
 @endif
-<a href="{{url('/')}}"><img src="images/img/meryem.png" alt="" width="50px">Retour</a>
+<a href="{{url('/')}}"><img src="logo_larosa.png" alt="" width="50px">Retour</a>
 		<br>
 		<br>
 		<br>

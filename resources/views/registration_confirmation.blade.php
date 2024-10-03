@@ -34,7 +34,7 @@
 <body>
     <h1>Bienvenue, {{ $clientFirstName }} {{ $clientLastName }} !</h1>
 
-    <p>Nous sommes ravis de vous informer que votre inscription a été confirmée avec succès sur Lella Meryem</p>
+    <p>Nous sommes ravis de vous informer que votre inscription a été confirmée avec succès sur La Rosa</p>
 
     <p>Votre compte a été créé avec les informations suivantes :</p>
 

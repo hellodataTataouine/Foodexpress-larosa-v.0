@@ -14,10 +14,10 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
   <meta name="author" content="cipherlink">
   <meta name="theme-color" content="#6777ef"/>
-  <link rel="apple-touch-icon" href="{{ asset('logo.png') }}"/>
+  <link rel="apple-touch-icon" href="{{ asset('logo_larosa.png') }}"/>
   <link rel="manifest" href="{{ asset('/manifest.json') }}"/>
-  <title>Lella Meryem</title>
-  <link rel="icon" type="image/x-icon" href="{{asset('images/img/meryem.png')}}">
+  <title>La Rosa</title>
+  <link rel="icon" type="image/x-icon" href="{{asset('logo_larosa.png')}}">
     <!-- Banner Start -->
     <style>
       .truncate-description {
@@ -166,7 +166,7 @@
 <body>
     <div class="overlay" id="overlay" style="display: none;"></div>
     <div class="popup" id="installPopup" style="display: none;">
-        <h2>Bienvenu chez Lella Meryem</h2>
+        <h2>Bienvenu chez La Rosa</h2>
         <p>Voulez vous installer cette application ?</p>
         <p>Cliquez sur le bouton ci-dessous pour installer l'application sur votre appareil.</p>
         <button id="installButton">Installer</button>

@@ -215,10 +215,10 @@
 		<br>
 		<br>
 		<br>
-      <h1 class="title">Bienvenue chez Lella Meryem</h1>
+      <h1 class="title">Bienvenue chez La Rosa</h1>
       <p class="subtitle">
 
-        Lella Meryem: Cuisine tunisienne authentique dans une ambiance chaleureuse et conviviale.
+        La Rosa: Cuisine tunisienne authentique dans une ambiance chaleureuse et conviviale.
       </p>
       <span>
         <a href="#menu-section" class="btn-custom primary">Commander Maintenant </a>

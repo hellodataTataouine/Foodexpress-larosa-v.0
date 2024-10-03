@@ -13,8 +13,8 @@
     <meta property="og:image" content="{{url('uploads/seo/'.$seo->image)}}">
   <meta name="author" content="cipherlink">
 
-  <title>Lella Meryem | Checkout</title>
-  <link rel="icon" type="image/x-icon" href="images/img/meryem.png">
+  <title>La Rosa | Checkout</title>
+  <link rel="icon" type="image/x-icon" href="logo_larosa.png">
   <link rel="stylesheet" href="{{ asset('vendors/mdi/css/materialdesignicons.min.css') }}">
   <style>
     .icon-input-container.address-container {

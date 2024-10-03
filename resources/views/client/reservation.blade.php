@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Lella Meryem | Réserver</title>
+    <title>La Rosa | Réserver</title>
     <meta name="title" content="{{ $seo->title }}">
     <meta name="description" content="{{ $seo->description }}">
     <meta name="keywords" content="{{ $seo->keywords }}">
@@ -75,7 +75,7 @@
       <div class="auth-description bg-cover bg-center dark-overlay dark-overlay-2" style="background-image: url(&quot;https://foodexpress.site/uploads//reservationbanner.png?v=v2.7.0&quot;);">
         <div class="auth-description-inner">
           <i class="fa fa-table"></i>
-          <h2>Lella Meryem Reservation!</h2>
+          <h2>La Rosa Reservation!</h2>
                  <p>Réservez une table et profitez d'une expérience culinaire exceptionnelle dans notre restaurant. Choisissez le nombre de personnes, l'heure, la date, et découvrez nos tables disponibles.</p>
 
         </div>

@@ -13,8 +13,8 @@
     <meta property="og:image" content="{{url('uploads/seo/'.$seo->image)}}">
   <meta name="author" content="cipherlink">
 
-  <title>Lella Meryem | Se connecter</title>
-  <link rel="icon" type="image/x-icon" href="{{asset('images/img/meryem.png')}}">
+  <title>La Rosa | Se connecter</title>
+  <link rel="icon" type="image/x-icon" href="{{asset('logo_larosa.png')}}">
 </head>
 <body>
   @include('client.layouts.top_menu_client')

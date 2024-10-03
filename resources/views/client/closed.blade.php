@@ -35,7 +35,7 @@ section.disabled {
 </style>
 <header>
     <div class="logo">
-        <img src="images/img/meryem.png" alt="Logo">
+        <img src="logo_larosa.png" alt="Logo">
     </div>
 
 </header>

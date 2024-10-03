@@ -468,7 +468,7 @@ function checkSessionStatus() {
 }
 function getDistance($lat,$long){
     const distance = geolib.getDistance(
-        { latitude: 32.929039092293245, longitude: 10.448585330181148 }, // lella meryem
+        { latitude: 32.929039092293245, longitude: 10.448585330181148 }, // La Rosa
         { latitude: $lat, longitude: $long }  // client address
     );
     // 32.929039092293245, 10.448585330181148
