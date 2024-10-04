@@ -150,7 +150,7 @@ Version: 1.0.0
 }
 .lds-ripple div {
   position: absolute;
-  border: 4px solid #f1c646;
+  border: 4px solid #02463a;
   opacity: 1;
   border-radius: 50%;
   -webkit-animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
@@ -395,7 +395,7 @@ p {
   color: #515151;
 }
 a {
-  color: #f1c646;
+  color: #0F9D58;
   text-decoration: none;
   -webkit-transition: .3s;
   -o-transition: .3s;
@@ -470,7 +470,7 @@ blockquote {
   position: relative;
   padding: 30px;
   margin: 20px 0;
-  border-left: 3px solid #f1c646
+  border-left: 3px solid #0F9D58
 ;
   font-size: 18px;
   font-family: "Oswald", sans-serif;
@@ -492,7 +492,7 @@ blockquote::before{
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  color: #f1c646
+  color: #0F9D58
 ;
   padding: 5px 0;
   background-color: #fff;
@@ -688,7 +688,7 @@ textarea{
   content: '';
   width: 100%;
   height: 100%;
-  background-color: #f1c646;
+  background-color: #02463a;
   position: absolute;
   top: 0;
   left: 0;
@@ -721,7 +721,7 @@ textarea{
           box-shadow: 4px 3px 24px rgba(237, 78, 83, .5);
 }
 .btn-custom.secondary{
-  background-color: #f1c646;
+  background-color: #0F9D58;
   -webkit-box-shadow: 0 3px 24px rgba(252,204,76,.5);
           box-shadow: 0 3px 24px rgba(252,204,76,.5);
 }
@@ -775,7 +775,7 @@ textarea{
   font-size: 12px;
 }
 input[type="submit"]:disabled, button[type="submit"]:disabled {
-  background-color: #f1c646;
+  background-color: #0f9d2c;
   border-color: #e4e3e8;
   cursor: not-allowed;
 }
@@ -784,7 +784,7 @@ input[type="submit"]:disabled, button[type="submit"]:disabled {
 1.5. Colors & Badges
 ====================*/
 .custom-primary{
-  color: #f1c646;
+  color: #0F9D58;
 }
 .custom-secondary{
   color: #4e4e4e;
@@ -892,7 +892,7 @@ input[type="submit"]:disabled, button[type="submit"]:disabled {
   font-size: 13px;
 }
 .badge.badge-primary {
-  background-color: #f1c646;
+  background-color: #0F9D58;
 }
 .badge.badge-secondary {
   background-color: #aa66cc;
@@ -998,7 +998,7 @@ table img{
   color: #1D2228;
 }
 .nav-link.active{
-  background-color: #f1c646;
+  background-color: #0F9D58;
   color: #fff;
 }
 
@@ -1074,7 +1074,7 @@ table img{
 }
 
 .aside-toggler:hover span{
-  background-color: #f1c646;
+  background-color: #0F9D58;
 }
 
 .navbar-brand {
@@ -1118,7 +1118,7 @@ table img{
 
 .navbar .menu-item a.active,
 .navbar .menu-item a:hover {
-  color: #f1c646;
+  color: #0F9D58;
 }
 
 .navbar .menu-item:hover>.submenu {
@@ -1698,7 +1698,7 @@ table img{
       -ms-flex-align: center;
           align-items: center;
   padding: 0 10px;
-  background-color: #f1c646;
+  background-color: #0F9D58;
 }
 .top-header .header-cta li a:hover{
   color: #fff;
@@ -1745,7 +1745,7 @@ table img{
   color: #fff;
 }
 .main-header.header-2 .cart-item-count{
-  background-color: #f1c646;
+  background-color: #0F9D58;
 }
 .main-header.header-2 .header-cta{
   display: -webkit-box;
@@ -3303,8 +3303,8 @@ table img{
   -webkit-transition-delay: .1s;
        -o-transition-delay: .1s;
           transition-delay: .1s;
-  background-color: #f1c646;
-  border-color: #f1c646;
+  background-color: #0F9D58;
+  border-color: #0F9D58;
   color: #fff;
 }
 .ct-arrows.centered-arrows{
@@ -3347,11 +3347,11 @@ table img{
   margin-left: 15px;
 }
 .pagination .page-item.active .page-link{
-  background-color: #f1c646;
+  background-color: #0F9D58;
 }
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus{
-  color: #f1c646;
+  color: #0F9D58;
   outline: none;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -3403,7 +3403,7 @@ table img{
   margin-left: 15px;
   border-radius: .25rem;
   cursor: pointer;
-  background-color: #f1c646;
+  background-color: #0F9D58;
   color: #fff;
   -webkit-transition: .3s;
   -o-transition: .3s;
@@ -3655,7 +3655,7 @@ table img{
   background-color: #e2e2e2;
 }
 .related .slick-dots li.slick-active button{
-  background-color: #f1c646;
+  background-color: #0F9D58;
 }
 
 /* Sidebar */
@@ -4190,7 +4190,7 @@ td.quantity{
 }
 /* 8.7. Menu Pages */
 .ct-menu-categories{
-  background-color: #f1c646;;
+  background-color: #222423;;
   padding: 20px;
 }
 .ct-menu-category-item{
@@ -4261,7 +4261,7 @@ td.quantity{
   color: #1D2228;
 }
 .product .product-desc h4 a:hover{
-  color: #f1c646;
+  color: #0F9D58;
 }
 .product p{
   margin-bottom: 20px;
@@ -4738,7 +4738,6 @@ td.quantity{
   }
   .checkout-billing{
     margin-top: 50px;
-    width: -webkit-fill-available;
   }
   .checkout-billing table{
     margin-bottom: 50px;

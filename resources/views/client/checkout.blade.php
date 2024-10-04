@@ -64,7 +64,7 @@
     }
 
     .payment-method-btn.active {
-        background-color: #f1c646;
+        background-color: #02463a;
         color: #fff;
         border-color: #af191b;
     }
@@ -82,7 +82,7 @@
     }
 
     .delivery-method-btn.active {
-        background-color: #f1c646;
+        background-color: #02463a;
         color: #fff;
         border-color: #af191b;
     }

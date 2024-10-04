@@ -10,12 +10,12 @@
             bottom: 0;
             left: 0;
             width: 100%;
-            background-color: #f83513;
+            background-color: #02463a;
             color: #fff;
             text-align: center;
             padding: 10px;
 			border-radius: 25px;
-			/* text-transform: uppercase; */
+			text-transform: uppercase;
 			line-height: 24px;
 			color: rgba(255,255,255,var(--tw-text-opacity));
             z-index: 999; /* Set a high z-index value to ensure it overlays other content */
