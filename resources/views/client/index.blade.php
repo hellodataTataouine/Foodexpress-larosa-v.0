@@ -940,7 +940,7 @@
          $('.total-price').html(totalPrice + 'TND');
 
          var priceTotal = $('.final-price.custom-primary');
-         priceTotal.text(totalPrice.toFixed(2) + 'TND');
+         priceTotal.text(totalPrice.toFixed(3) + 'TND');
 
        }
 
@@ -1445,7 +1445,7 @@
          $('.total-price').html(totalPrice + 'TND');
 
          var priceTotal = $('.final-price.custom-primary');
-         priceTotal.text(totalPrice.toFixed(2) + 'TND');
+         priceTotal.text(totalPrice.toFixed(3) + 'TND');
         //  disableBTN(parseFloat((priceTotal.text()).replace('TND','')));
 
 
