@@ -14,7 +14,7 @@
   <meta name="author" content="cipherlink">
 
   <title>La Rosa | Checkout</title>
-  <link rel="icon" type="image/x-icon" href="logo_larosa.png">
+  <link rel="icon" type="image/x-icon" href="logo_black.png">
   <link rel="stylesheet" href="{{ asset('vendors/mdi/css/materialdesignicons.min.css') }}">
   <style>
     .icon-input-container.address-container {

@@ -19,7 +19,7 @@
 </style>
 <header>
     <div class="logo">
-        <img src="logo_larosa.png" alt="Logo">
+        <img src="logo.png" alt="Logo">
     </div>
 
 </header>

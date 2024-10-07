@@ -15,7 +15,7 @@
   <meta name="author" content="cipherlink">
 
   <title>La Rosa | Checkout</title>
-  <link rel="icon" type="image/x-icon" href="logo_larosa.png">
+  <link rel="icon" type="image/x-icon" href="logo_black.png">
   <link rel="stylesheet" href="{{ asset('vendors/mdi/css/materialdesignicons.min.css') }}">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -183,7 +183,7 @@
 <section class="section">
 
     <div class="container">
-        <a href="{{url('/')}}"><img src="logo_larosa.png" alt="" width="50px">Retour</a>
+        <a href="{{url('/')}}"><img src="logo_black.png" alt="" width="50px">Retour</a>
         <div class="flex-container">
             @php
                 $restaurant_id=env('Restaurant_id');

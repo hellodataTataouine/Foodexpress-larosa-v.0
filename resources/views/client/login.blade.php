@@ -14,7 +14,7 @@
   <meta name="author" content="cipherlink">
 
   <title>La Rosa | Se connecter</title>
-  <link rel="icon" type="image/x-icon" href="{{asset('logo_larosa.png')}}">
+  <link rel="icon" type="image/x-icon" href="{{asset('logo_black.png')}}">
 </head>
 <body>
   @include('client.layouts.top_menu_client')

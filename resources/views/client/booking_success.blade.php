@@ -14,7 +14,7 @@
   <meta name="author" content="cipherlink">
 
   <title>La Rosa</title>
-  <link rel="icon" type="image/x-icon" href="logo_larosa.png">
+  <link rel="icon" type="image/x-icon" href="logo_black.png">
 
 </head>
 <body>

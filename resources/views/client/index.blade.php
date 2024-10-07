@@ -14,10 +14,10 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
   <meta name="author" content="cipherlink">
   <meta name="theme-color" content="#6777ef"/>
-  <link rel="apple-touch-icon" href="{{ asset('logo_larosa.png') }}"/>
+  <link rel="apple-touch-icon" href="{{ asset('logo_black.png') }}"/>
   <link rel="manifest" href="{{ asset('/manifest.json') }}"/>
   <title>La Rosa</title>
-  <link rel="icon" type="image/x-icon" href="{{asset('logo_larosa.png')}}">
+  <link rel="icon" type="image/x-icon" href="{{asset('logo_black.png')}}">
     <!-- Banner Start -->
     <style>
       .truncate-description {
