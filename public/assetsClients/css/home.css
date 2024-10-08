@@ -9,7 +9,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #f1c646;
+  background-color: #02463a;
   padding: 10px;
   text-align: right;
   font-size: 35px;
@@ -86,7 +86,7 @@ section::after {
 }
 .geolocation-icon:hover{
     cursor: pointer;
-    color: #f1c646;
+    color: #02463a;
 }
 
 /* Style the input */
