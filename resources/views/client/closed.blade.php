@@ -58,7 +58,7 @@ section.disabled {
               <p>Status :<span style="color: green;">En service</span></p>
           @else
           <p class="special-p">Status : Actuellement, nos portes sont <span style="color: red;">fermées</span></p>
-          <p>Nous sommes fermés aujourd'hui. Merci de revenir un autre jour.</p>
+          <p>Le service de livraison est actuellement indisponible car le restaurant est fermé. Merci de revenir pendant nos heures d'ouverture.</p>
           @endif
           <input type="hidden" id="heure_ouverture" value="{{ $item->heure_ouverture }}">
           <input type="hidden" id="heure_fermeture" value="{{ $item->heure_fermeture }}">
